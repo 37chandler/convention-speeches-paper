@@ -1,0 +1,99 @@
+alias,canonical,party,notes
+# 2024 DNC aliases
+President Biden Addresses Democratic National Convention,Joe Biden,Democratic,Rev filename artifact
+Vice President Of The United States,Kamala Harris,Democratic,CNN role description
+Hillary Rodham Clinton At The Democratic National Convention,Hillary Clinton,Democratic,Rev filename artifact
+Harris Energizes Crowd With Tribute To Biden In DNC Entrance,Kamala Harris,Democratic,Rev filename artifact
+Uaw President Shawn Fain,Shawn Fain,Democratic,Title in name
+Jaime Harrison Democratic National Convention 2024 Rev,Jaime Harrison,Democratic,Rev filename artifact
+Douglas Emhoff,Doug Emhoff,Democratic,Full name variant
+Chasten Buttigieg,Chasten Buttigieg,Democratic,Spouse - keep separate from Pete
+Meena Harris,Meena Harris,Democratic,Niece - keep separate from Maya
+Kenan Thompson,Kenan Thompson,Democratic,Comedian - keep separate from Bennie Thompson
+Alexandria Ocasio-cortez,Alexandria Ocasio-Cortez,Democratic,Capitalization fix
+Alexandria Ocasio Cortez,Alexandria Ocasio-Cortez,Democratic,Missing hyphen
+Sharpton,Al Sharpton,Democratic,Last name only
+Alsobrooks,Angela Alsobrooks,Democratic,Last name only
+Navarro,Ana Navarro,Democratic,Last name only
+Hughley,D.L. Hughley,Democratic,Last name only
+Longoria,Eva Longoria,Democratic,Last name only
+A. Zurwaski,Amanda Zurawski,Democratic,Abbreviated name
+Thompson,Bennie Thompson,Democratic,Last name only - context needed
+Allred,Colin Allred,Democratic,Last name only
+Frost,Maxwell Frost,Democratic,Last name only
+Duncan,Geoff Duncan,Democratic,Last name only
+Hochul,Kathy Hochul,Democratic,Last name only
+Grisham,Michelle Lujan Grisham,Democratic,Last name only
+Salaam,Yusef Salaam,Democratic,Last name only
+Coons,Chris Coons,Democratic,Last name only
+Giles,John Giles,Democratic,Last name only
+Salazar,Javier Salazar,Democratic,Last name only
+Madigan,Lisa Madigan,Democratic,Last name only
+Swanson,Chris Swanson,Democratic,Last name only
+Chair,Convention Chair,Democratic,Generic role
+Newsom,Gavin Newsom,Democratic,Last name only
+Rae,Issa Rae,Democratic,Last name only
+Bass,Karen Bass,Democratic,Last name only
+Evers,Tony Evers,Democratic,Last name only
+# 2024 RNC aliases
+Don Trump Jr.,Donald Trump Jr.,Republican,Abbreviated name
+D. Trump,Donald Trump,Republican,Abbreviated name
+D. Trump Jr.,Donald Trump Jr.,Republican,Abbreviated name
+Donald Trump's Son,Donald Trump Jr.,Republican,Description instead of name
+Jd Vance Speaks At RNC Night 3,J.D. Vance,Republican,Rev filename artifact
+J D Vance Nominated As Vice Presidential Nominee At The Rnc,J.D. Vance,Republican,Rev filename artifact
+Sen. J.d. Vance,J.D. Vance,Republican,Title and case issues
+Secret Service Briefing Ahead Of Rnc,EXCLUDE,Republican,Not a speaker - exclude
+Usha Chilukuri Vance,Usha Vance,Republican,Full maiden name
+E. Trump,Eric Trump,Republican,Abbreviated name
+Jack Johnson,Jack Johnson,Democratic,NFL Hall of Famer - spoke at DNC Night 2
+Michael Whatley,Michael Whatley,Republican,RNC Chair
+Ok.,EXCLUDE,Republican,Parse error
+Kestenbaum,Shabbos Kestenbaum,Republican,Last name only
+A. Lopez,Alicia Lopez,Republican,Abbreviated name
+Morin,The Morin family,Republican,Last name only
+Shamblin,Christy Shamblin,Republican,Last name only
+Albright,Annette Albright,Republican,Last name only
+Conaway,Trent Conaway,Republican,Last name only
+O. Neutra,Orna Neutra,Republican,Abbreviated name
+Dale,UNKNOWN,Republican,Insufficient context
+Kaufmann,UNKNOWN,Republican,Insufficient context
+Dewine,Mike DeWine,Republican,Last name only
+Gov. Mike Dewine,Mike DeWine,Republican,Title variant
+Mcdonald,UNKNOWN,Republican,Insufficient context
+Chairman,Convention Chairman,Republican,Generic role
+Archbishop Elpidophoros Greek Orthodox Primate Of America,Archbishop Elpidophoros,Republican,Role in name
+Walker,UNKNOWN,Republican,Insufficient context
+Barnett,UNKNOWN,Republican,Insufficient context
+VP.,EXCLUDE,Republican,Parse error
+Husted,Jon Husted,Republican,Last name only
+# Common patterns across years
+Audience,EXCLUDE,Both,Not a speaker
+Crowd,EXCLUDE,Both,Not a speaker
+Speaker,EXCLUDE,Both,Generic placeholder
+Intro,EXCLUDE,Both,Not a speaker
+Group,EXCLUDE,Both,Not a speaker
+Cameraman,EXCLUDE,Both,Not a speaker
+# 2024 CNN-specific fixes
+First Lady Jill Biden,Jill Biden,Democratic,Title prefix
+Sen. J.D. Vance,J.D. Vance,Republican,Title prefix
+Rep. Elise Stefanik,Elise Stefanik,Republican,Title prefix
+Lucy Mcbath,Lucy McBath,Democratic,Capitalization fix
+Melody Mcfadden,Melody McFadden,Democratic,Capitalization fix
+Johnson-Batiste,Jon Batiste,Democratic,Hyphen artifact - performer at DNC Night 1
+Gordon-Booth,Pamela Gordon-Booth,Democratic,Illinois State Senator
+Corporal Humberto Sanchez'S Mother,Marcela Sanchez,Republican,Possessive artifact
+Hamas Hostage Omer Neutra'S Mother,Ronen Neutra,Republican,Possessive artifact
+Anderson,EXCLUDE,Republican,CNN anchor - not a convention speech
+Singleton,EXCLUDE,Republican,CNN panel segment - not a convention speech
+Nelson,EXCLUDE,Democratic,CNN anchor - not a convention speech
+Briseno,EXCLUDE,Republican,Parsing artifact - bleeds into Lopez row
+Mccollum,EXCLUDE,Republican,Parsing artifact - bleeds into Lopez row
+Former President Of The United States,EXCLUDE,Republican,Role label not a speaker
+Congressional Candidate Of Florida,EXCLUDE,Republican,Role label not a speaker
+Samaritan'S Purse,EXCLUDE,Republican,Organization not a speaker
+Barbuto,UNKNOWN,Democratic,Real speech - insufficient context to identify
+Chenault,UNKNOWN,Democratic,Real speech - insufficient context to identify
+Fitts,UNKNOWN,Democratic,Real speech - insufficient context to identify
+Matthews,UNKNOWN,Democratic,Real speech - insufficient context to identify
+Hillary Rodham Clinton,Hillary Clinton,Democratic,Full name variant

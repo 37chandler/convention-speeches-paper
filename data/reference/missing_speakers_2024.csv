@@ -1,0 +1,199 @@
+speaker,party,night,category,have
+Minyon Moore,Democratic,1,Official,False
+Peggy Flanagan,Democratic,1,Official,False
+Lauren Underwood,Democratic,1,Congress,False
+Robert Garcia,Democratic,1,Congress,False
+Lee Saunders,Democratic,1,Labor,False
+April Verrett,Democratic,1,Labor,False
+Kenneth W. Cooper,Democratic,1,Labor,False
+Claude Cummings Jr.,Democratic,1,Labor,False
+James Clyburn,Democratic,1,Congress,False
+Jamie Raskin,Democratic,1,Congress,False
+Jasmine Crockett,Democratic,1,Congress,False
+Grace Meng,Democratic,1,Congress,False
+Amanda Zurawski,Democratic,1,Citizen,False
+Josh Zurawski,Democratic,1,Citizen,False
+Kaitlyn Joshua,Democratic,1,Citizen,False
+Hadley Duvall,Democratic,1,Citizen,False
+Andy Beshear,Democratic,1,Governor,False
+Chris Coons,Democratic,1,Senator,False
+Tony Goldwyn,Democratic,1,Celebrity,False
+Steve Kerr,Democratic,1,Celebrity,False
+Mickey Guyton,Democratic,1,Performer,False
+Jason Isbell,Democratic,1,Performer,False
+Maxine Waters,Democratic,1,Congress,False
+Mallory McMorrow,Democratic,1,State Official,False
+Ana Navarro,Democratic,2,Celebrity,False
+J.B. Pritzker,Democratic,2,Governor,False
+Tammy Duckworth,Democratic,2,Senator,False
+Gary Peters,Democratic,2,Senator,False
+Michelle Lujan Grisham,Democratic,2,Governor,False
+John Giles,Democratic,2,Official,False
+Malcolm Kenyatta,Democratic,2,State Official,False
+Jason Carter,Democratic,2,Family,False
+Jack Schlossberg,Democratic,2,Family,False
+Stephanie Grisham,Democratic,2,Crossover,False
+Patti LaBelle,Democratic,2,Performer,False
+Common,Democratic,2,Performer,False
+Angela Alsobrooks,Democratic,2,Candidate,False
+Mindy Kaling,Democratic,3,Celebrity,False
+Amy Klobuchar,Democratic,3,Senator,False
+Catherine Cortez Masto,Democratic,3,Senator,False
+Josh Shapiro,Democratic,3,Governor,False
+Wes Moore,Democratic,3,Governor,False
+John Legend,Democratic,3,Performer,False
+Sheila E.,Democratic,3,Performer,False
+Stevie Wonder,Democratic,3,Performer,False
+Amanda Gorman,Democratic,3,Performer,False
+Maren Morris,Democratic,3,Performer,False
+Alex Hornbrook,Democratic,3,Citizen,False
+Sri Rakesh Bhatt,Democratic,3,Citizen,False
+Leah Daughtry,Democratic,3,Official,False
+Mini Timmaraju,Democratic,3,Activist,False
+Cecile Richards,Democratic,3,Activist,False
+Kelley Robinson,Democratic,3,Activist,False
+Jessica Mackler,Democratic,3,Activist,False
+Maria Teresa Kumar,Democratic,3,Activist,False
+Tom Suozzi,Democratic,3,Congress,False
+Aftab Pureval,Democratic,3,Official,False
+Rashawn Spivey,Democratic,3,Citizen,False
+Deanna Branch,Democratic,3,Citizen,False
+Lisa Blunt Rochester,Democratic,3,Congress,False
+Jared Polis,Democratic,3,Governor,False
+Keith Ellison,Democratic,3,Official,False
+Dana Nessel,Democratic,3,Official,False
+Jon Polin,Democratic,3,Citizen,False
+Rachel Goldberg,Democratic,3,Citizen,False
+Chris Murphy,Democratic,3,Senator,False
+Javier Salazar,Democratic,3,Official,False
+Pete Aguilar,Democratic,3,Congress,False
+Carlos Eduardo Espina,Democratic,3,Citizen,False
+Olivia Troye,Democratic,3,Crossover,False
+Geoff Duncan,Democratic,3,Crossover,False
+Bennie Thompson,Democratic,3,Congress,False
+Aquilino Gonell,Democratic,3,Citizen,False
+Andy Kim,Democratic,3,Congress,False
+Olivia Julianna,Democratic,3,Activist,False
+Alexander Hudlin,Democratic,3,Citizen,False
+Benjamin Ingman,Democratic,3,Citizen,False
+William Hall,Democratic,3,Citizen,False
+Kerry Washington,Democratic,4,Celebrity,False
+Roy Cooper,Democratic,4,Governor,False
+Gabrielle Giffords,Democratic,4,Congress,False
+Alex Padilla,Democratic,4,Senator,False
+Deb Haaland,Democratic,4,Cabinet,False
+Maura Healey,Democratic,4,Governor,False
+Lucy McBath,Democratic,4,Congress,False
+Joe Neguse,Democratic,4,Congress,False
+Maxwell Frost,Democratic,4,Congress,False
+Veronica Escobar,Democratic,4,Congress,False
+Becky Pringle,Democratic,4,Labor,False
+Randi Weingarten,Democratic,4,Labor,False
+Marcia Fudge,Democratic,4,Cabinet,False
+Ted Lieu,Democratic,4,Congress,False
+Tammy Baldwin,Democratic,4,Senator,False
+Katherine Clark,Democratic,4,Congress,False
+Raja Krishnamoorthi,Democratic,4,Congress,False
+Bob Casey,Democratic,4,Senator,False
+Jason Crow,Democratic,4,Congress,False
+Elissa Slotkin,Democratic,4,Congress,False
+Pat Ryan,Democratic,4,Congress,False
+Yusef Salaam,Democratic,4,Citizen,False
+Korey Wise,Democratic,4,Citizen,False
+Raymond Santana,Democratic,4,Citizen,False
+Kevin Richardson,Democratic,4,Citizen,False
+Amy Resner,Democratic,4,Citizen,False
+Karrie Delaney,Democratic,4,State Official,False
+Lisa Madigan,Democratic,4,Official,False
+Marc Morial,Democratic,4,Activist,False
+Nathan Hornes,Democratic,4,Citizen,False
+Tristan Snell,Democratic,4,Citizen,False
+Courtney Baldwin,Democratic,4,Citizen,False
+John Russell,Democratic,4,Citizen,False
+Colin Allred,Democratic,4,Congress,False
+Chris Swanson,Democratic,4,Official,False
+Leon Panetta,Democratic,4,Headliner,False
+Ruben Gallego,Democratic,4,Congress,False
+Eva Longoria,Democratic,4,Celebrity,False
+Pink,Democratic,4,Performer,False
+The Chicks,Democratic,4,Performer,False
+Stephen Curry,Democratic,4,Celebrity,False
+Lil Jon,Democratic,2,Performer,False
+Mark Robinson,Republican,1,State Official,False
+Wesley Hunt,Republican,1,Congress,False
+John James,Republican,1,Congress,False
+Sara Workman,Republican,1,Citizen,False
+Glenn Youngkin,Republican,1,Governor,False
+Bob Unanue,Republican,1,Business,False
+Kristi Noem,Republican,1,Governor,False
+Bobby Bartels,Republican,1,Citizen,False
+Byron Donalds,Republican,1,Congress,False
+David Sacks,Republican,1,Business,False
+Vanessa Faura,Republican,1,Citizen,False
+Marsha Blackburn,Republican,1,Senator,False
+Mark Laws,Republican,1,Citizen,False
+Benjamin Josephs,Republican,1,Citizen,False
+Linda Fornos,Republican,1,Citizen,False
+Sean O'Brien,Republican,1,Labor,False
+Anne Hathaway,Republican,2,Citizen,False
+Bill Lee,Republican,2,Governor,False
+Hayden Padget,Republican,2,Citizen,False
+Matt Brooks,Republican,2,Activist,False
+Reince Priebus,Republican,2,Official,False
+James Crawford,Republican,2,Citizen,False
+Eric Hovde,Republican,2,Candidate,False
+Bernie Moreno,Republican,2,Candidate,False
+Mike Rogers,Republican,2,Candidate,False
+Dave McCormick,Republican,2,Candidate,False
+Jim Banks,Republican,2,Congress,False
+Jim Justice,Republican,2,Governor,False
+Sam Brown,Republican,2,Candidate,False
+Tim Sheehy,Republican,2,Candidate,False
+Hung Cao,Republican,2,Candidate,False
+Jeff Van Drew,Republican,2,Congress,False
+Tom Emmer,Republican,2,Congress,False
+Savannah Chrisley,Republican,2,Celebrity,False
+Randy Sutton,Republican,2,Citizen,False
+Brenna Bird,Republican,2,Official,False
+Eric Schmitt,Republican,2,Senator,False
+Michael Coyle,Republican,2,Citizen,False
+Erin Koper,Republican,2,Citizen,False
+Anne Fundner,Republican,2,Citizen,False
+The Morin family,Republican,2,Citizen,False
+Madeline Brame,Republican,2,Citizen,False
+Brian Mast,Republican,3,Congress,False
+Nancy Mace,Republican,3,Congress,False
+Ronny Jackson,Republican,3,Congress,False
+Ric Grenell,Republican,3,Official,False
+Lee Zeldin,Republican,3,Candidate,False
+Peter Navarro,Republican,3,Official,False
+Thomas Homan,Republican,3,Official,False
+Jim Chilton,Republican,3,Citizen,False
+Sarah Phillips,Republican,3,Citizen,False
+Trent Conaway,Republican,3,Official,False
+Doug Burgum,Republican,3,Governor,False
+Anna Paulina Luna,Republican,3,Congress,False
+David Bellavia,Republican,3,Veteran,False
+Scott Neil,Republican,3,Citizen,False
+Michael Waltz,Republican,3,Congress,False
+Christy Shamblin,Republican,3,Citizen,False
+Cheryl Juels,Republican,3,Citizen,False
+Herman Lopez,Republican,3,Citizen,False
+Alicia Lopez,Republican,3,Citizen,False
+Shabbos Kestenbaum,Republican,3,Activist,False
+The Neutra family,Republican,3,Citizen,False
+William Pekrul,Republican,3,Veteran,False
+Steve Daines,Republican,4,Senator,False
+Richard Hudson,Republican,4,Congress,False
+Diane Hendricks,Republican,4,Business,False
+Diane Evans,Republican,4,Citizen,False
+Mike Pompeo,Republican,4,Headliner,False
+Lorenzo Sewell,Republican,4,Faith,False
+John Nieporte,Republican,4,Citizen,False
+Steve Witkoff,Republican,4,Business,False
+Zach Witkoff,Republican,4,Family,False
+Alina Habba,Republican,4,Official,False
+Carrie Ruiz,Republican,4,Citizen,False
+Annette Albright,Republican,4,Citizen,False
+Lee Greenwood,Republican,4,Performer,False
+Kid Rock,Republican,4,Celebrity,False

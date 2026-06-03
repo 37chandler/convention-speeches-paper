@@ -1,0 +1,265 @@
+alias,canonical,party,notes
+# Name variants — Democratic
+Biden,Joe Biden,Democratic,Last name only
+Vice President Joe Biden,Joe Biden,Democratic,Title prefix
+Obama,Barack Obama,Democratic,Last name only
+Harris,Kamala Harris,Democratic,Last name only
+Senator Kamala Harris,Kamala Harris,Democratic,Title prefix
+Warren,Elizabeth Warren,Democratic,Last name only
+Senator Elizabet Warren,Elizabeth Warren,Democratic,Typo in title prefix
+Senator Bernie Sanders,Bernie Sanders,Democratic,Title prefix
+Sanders,Bernie Sanders,Democratic,Last name only
+Senator Amy Klobuchar,Amy Klobuchar,Democratic,Title prefix
+Senator Cory Booker,Cory Booker,Democratic,Title prefix
+Booker,Cory Booker,Democratic,Last name only
+Senator Chris Coons,Chris Coons,Democratic,Title prefix
+Coons,Chris Coons,Democratic,Last name only
+Senator Doug Jones,Doug Jones,Democratic,Title prefix
+Senator Daug Jones,Doug Jones,Democratic,Typo in title prefix
+Senator Catherine Cortez Masto,Catherine Cortez Masto,Democratic,Title prefix
+Senator Kirsten Gillibrand,Kirsten Gillibrand,Democratic,Title prefix
+Gillibrand,Kirsten Gillibrand,Democratic,Last name only
+Abrams,Stacey Abrams,Democratic,Last name only
+Bowser,Muriel Bowser,Democratic,Last name only
+Governor Gavin Newsom,Gavin Newsom,Democratic,Title prefix
+Governor Jay Inslee,Jay Inslee,Democratic,Title prefix
+Governor Christine Todd Whitman,Christine Todd Whitman,Democratic,Title prefix
+Longoria,Eva Longoria,Democratic,Last name only
+Washington,Kerry Washington,Democratic,Last name only
+Yang,Andrew Yang,Democratic,Last name only
+Kasich,John Kasich,Democratic,Last name only
+Kerry,John Kerry,Democratic,Last name only
+Powell,Colin Powell,Democratic,Last name only
+Bloomberg,Mike Bloomberg,Democratic,Last name only
+Thompson,Bennie Thompson,Democratic,Last name only
+Pelosi,Nancy Pelosi,Democratic,Last name only
+Schumer,Chuck Schumer,Democratic,Last name only
+Klobuchar,Amy Klobuchar,Democratic,Last name only
+Haaland,Deb Haaland,Democratic,Last name only
+Duckworth,Tammy Duckworth,Democratic,Last name only
+Baldwin,Tammy Baldwin,Democratic,Last name only
+Bottoms,Keisha Lance Bottoms,Democratic,Last name only
+Cortez,Alexandria Ocasio-Cortez,Democratic,Last name only
+Garcetti,Eric Garcetti,Democratic,Last name only
+Padilla,Alex Padilla,Democratic,Last name only
+Kennedy,Caroline Kennedy,Democratic,Last name only
+Clinton,Hillary Clinton,Democratic,Last name only
+Schlossberg,Jack Schlossberg,Democratic,Last name only
+Carter,Rosalynn Carter,Democratic,Last name only
+Kenyatta,Malcolm Kenyatta,Democratic,Last name only
+Lewis,John Lewis,Democratic,Last name only
+Lamb,Conor Lamb,Democratic,Last name only
+Dreyfus,Julia Louis-Dreyfus,Democratic,Last name only
+Harrison,Jaime Harrison,Democratic,Last name only
+Booker,Cory Booker,Democratic,Last name only
+# Name variants — Republican
+Trump,Donald Trump,Republican,Last name only
+President Trump,Donald Trump,Republican,Title prefix
+President Donald Trump,Donald Trump,Republican,Title prefix
+Pence,Mike Pence,Republican,Last name only
+Conway,Kellyanne Conway,Republican,Last name only
+Bondi,Pam Bondi,Republican,Last name only
+Giuliani,Rudy Giuliani,Republican,Last name only
+Acting Secretary Wolf,Chad Wolf,Republican,Title prefix
+Secretary Wolf,Chad Wolf,Republican,Title prefix
+Wolf,Chad Wolf,Republican,Last name only
+Senator Tom Cotton,Tom Cotton,Republican,Title prefix
+Cotton,Tom Cotton,Republican,Last name only
+Congressman Jim Jordan,Jim Jordan,Republican,Title prefix
+Jordan,Jim Jordan,Republican,Last name only
+Sandmann,Nicholas Sandmann,Republican,Last name only
+Henderson,Clarence Henderson,Republican,Last name only
+Cameron,Daniel Cameron,Republican,Last name only
+Nunez,Jeanette Nunez,Republican,Last name only
+Guilfoyle,Kimberly Guilfoyle,Republican,Last name only
+Zeldin,Lee Zeldin,Republican,Last name only
+Harp,Natalie Harp,Republican,Last name only
+Ponder,Jon Ponder,Republican,Last name only
+McEnany,Kayleigh McEnany,Republican,Last name only
+Lynch,Cissie Graham Lynch,Republican,Last name only
+Graham Lynch,Cissie Graham Lynch,Republican,Last name only
+Owens,Burgess Owens,Republican,Last name only
+Peterson,John Peterson,Republican,Last name only
+Pollack,Andrew Pollack,Republican,Last name only
+Walker,Herschel Walker,Republican,Last name only
+Smith,Ja'Ron Smith,Republican,Last name only
+Dorin,Ann Dorin,Republican,Last name only
+McCarthy,Kevin McCarthy,Republican,Last name only
+Flood,Debbie Flood,Republican,Last name only
+Beasly,Richard Beasly,Republican,Last name only
+Cawthorn,Madison Cawthorn,Republican,Last name only
+Mueller,Marcia Mueller,Republican,Last name only
+Pruitt,Jack Pruitt,Republican,Last name only
+Melania trump,Melania Trump,Republican,Capitalization fix
+Michael,EXCLUDE,Democratic,Testimonial video package - aired multiple times across nights
+Debra,EXCLUDE,Democratic,Republicans for Biden video package - aired multiple nights 2020
+Garry,EXCLUDE,Democratic,Republicans for Biden video package - aired multiple nights 2020
+# Ghost party — clips played at opposing convention
+Donald Trump,EXCLUDE,Democratic,Clip played during DNC — not a convention speech
+Joe Biden,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Nancy Pelosi,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Gavin Newsom,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Andrew Cuomo,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Bill de Blasio,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Trevor Noah,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Phil Murphy,EXCLUDE,Republican,Clip played during RNC — not a convention speech
+Trump,EXCLUDE,Democratic,Clip played during DNC — not a convention speech
+# Noise speakers — exclude
+Announcer,EXCLUDE,Both,Not a speaker
+Narrator,EXCLUDE,Both,Not a speaker
+News clips,EXCLUDE,Both,Not a speaker
+We call… Audience,EXCLUDE,Both,Noise artifact
+We don't burn- Kimberly Guilfoyle,EXCLUDE,Both,Sentence fragment artifact
+We face- Nikki Haley,EXCLUDE,Both,Sentence fragment artifact
+Trump … Speaker 36,EXCLUDE,Both,Parse artifact
+You a coward … Speaker 92,EXCLUDE,Both,Parse artifact
+Kimpson …,EXCLUDE,Both,Trailing ellipsis artifact
+Akbari …,EXCLUDE,Both,Trailing ellipsis artifact
+Manoogian …,EXCLUDE,Both,Trailing ellipsis artifact
+Congratulations- Jamie Ponder,EXCLUDE,Both,Sentence fragment artifact
+Boyle,Brendan Boyle,Democratic,Last name only - Night 2 keynote fragment
+Nez,Jonathan Nez,Democratic,Last name only - Night 2 keynote fragment
+Manoogian,Mari Manoogian,Democratic,Last name only - Night 2 keynote fragment
+Garcia,Robert Garcia,Democratic,Last name only - Night 2 keynote fragment
+Kimpson,Marlon Kimpson,Democratic,Last name only - Night 2 keynote fragment
+Woodfin,Randall Woodfin,Democratic,Last name only - Night 2 keynote fragment
+Clyde,Kathleen Clyde,Democratic,Last name only - Night 2 keynote fragment
+Neave,Victoria Neave,Democratic,Last name only - Night 2 keynote fragment
+Akbari,Raumesh Akbari,Democratic,Last name only - Night 2 keynote fragment
+# Common noise already in main alias file
+Audience,EXCLUDE,Both,Not a speaker
+Crowd,EXCLUDE,Both,Not a speaker
+Group,EXCLUDE,Both,Not a speaker
+Cameraman,EXCLUDE,Both,Not a convention speaker
+Intro,EXCLUDE,Both,Not a speaker
+Male,EXCLUDE,Both,Generic label
+Female,EXCLUDE,Both,Generic label
+Senator Yvanna Cancela,Yvanna Cancela,Democratic,Title prefix
+Mayor Robert Garcia,Robert Garcia,Democratic,Title prefix
+# Speaker N rows — drop all
+Speaker 1,EXCLUDE,Both,Unidentified speaker
+Speaker 2,EXCLUDE,Both,Unidentified speaker
+Speaker 3,EXCLUDE,Both,Unidentified speaker
+Speaker 4,EXCLUDE,Both,Unidentified speaker
+Speaker 5,EXCLUDE,Both,Unidentified speaker
+Speaker 6,EXCLUDE,Both,Unidentified speaker
+Speaker 7,EXCLUDE,Both,Unidentified speaker
+Speaker 8,EXCLUDE,Both,Unidentified speaker
+Speaker 9,EXCLUDE,Both,Unidentified speaker
+Speaker 10,EXCLUDE,Both,Unidentified speaker
+Speaker 11,EXCLUDE,Both,Unidentified speaker
+Speaker 12,EXCLUDE,Both,Unidentified speaker
+Speaker 13,EXCLUDE,Both,Unidentified speaker
+Speaker 14,EXCLUDE,Both,Unidentified speaker
+Speaker 15,EXCLUDE,Both,Unidentified speaker
+Speaker 16,EXCLUDE,Both,Unidentified speaker
+Speaker 17,EXCLUDE,Both,Unidentified speaker
+Speaker 18,EXCLUDE,Both,Unidentified speaker
+Speaker 19,EXCLUDE,Both,Unidentified speaker
+Speaker 20,EXCLUDE,Both,Unidentified speaker
+Speaker 21,EXCLUDE,Both,Unidentified speaker
+Speaker 22,EXCLUDE,Both,Unidentified speaker
+Speaker 23,EXCLUDE,Both,Unidentified speaker
+Speaker 24,EXCLUDE,Both,Unidentified speaker
+Speaker 25,EXCLUDE,Both,Unidentified speaker
+Speaker 26,EXCLUDE,Both,Unidentified speaker
+Speaker 27,EXCLUDE,Both,Unidentified speaker
+Speaker 28,EXCLUDE,Both,Unidentified speaker
+Speaker 29,EXCLUDE,Both,Unidentified speaker
+Speaker 30,EXCLUDE,Both,Unidentified speaker
+Speaker 31,EXCLUDE,Both,Unidentified speaker
+Speaker 32,EXCLUDE,Both,Unidentified speaker
+Speaker 33,EXCLUDE,Both,Unidentified speaker
+Speaker 34,EXCLUDE,Both,Unidentified speaker
+Speaker 35,EXCLUDE,Both,Unidentified speaker
+Speaker 36,EXCLUDE,Both,Unidentified speaker
+Speaker 37,EXCLUDE,Both,Unidentified speaker
+Speaker 38,EXCLUDE,Both,Unidentified speaker
+Speaker 39,EXCLUDE,Both,Unidentified speaker
+Speaker 40,EXCLUDE,Both,Unidentified speaker
+Speaker 41,EXCLUDE,Both,Unidentified speaker
+Speaker 42,EXCLUDE,Both,Unidentified speaker
+Speaker 43,EXCLUDE,Both,Unidentified speaker
+Speaker 44,EXCLUDE,Both,Unidentified speaker
+Speaker 45,EXCLUDE,Both,Unidentified speaker
+Speaker 46,EXCLUDE,Both,Unidentified speaker
+Speaker 47,EXCLUDE,Both,Unidentified speaker
+Speaker 48,EXCLUDE,Both,Unidentified speaker
+Speaker 49,EXCLUDE,Both,Unidentified speaker
+Speaker 50,EXCLUDE,Both,Unidentified speaker
+Speaker 51,EXCLUDE,Both,Unidentified speaker
+Speaker 52,EXCLUDE,Both,Unidentified speaker
+Speaker 53,EXCLUDE,Both,Unidentified speaker
+Speaker 54,EXCLUDE,Both,Unidentified speaker
+Speaker 55,EXCLUDE,Both,Unidentified speaker
+Speaker 56,EXCLUDE,Both,Unidentified speaker
+Speaker 57,EXCLUDE,Both,Unidentified speaker
+Speaker 58,EXCLUDE,Both,Unidentified speaker
+Speaker 59,EXCLUDE,Both,Unidentified speaker
+Speaker 60,EXCLUDE,Both,Unidentified speaker
+Speaker 61,EXCLUDE,Both,Unidentified speaker
+Speaker 62,EXCLUDE,Both,Unidentified speaker
+Speaker 63,EXCLUDE,Both,Unidentified speaker
+Speaker 64,EXCLUDE,Both,Unidentified speaker
+Speaker 65,EXCLUDE,Both,Unidentified speaker
+Speaker 66,EXCLUDE,Both,Unidentified speaker
+Speaker 67,EXCLUDE,Both,Unidentified speaker
+Speaker 68,EXCLUDE,Both,Unidentified speaker
+Speaker 69,EXCLUDE,Both,Unidentified speaker
+Speaker 70,EXCLUDE,Both,Unidentified speaker
+Speaker 71,EXCLUDE,Both,Unidentified speaker
+Speaker 72,EXCLUDE,Both,Unidentified speaker
+Speaker 73,EXCLUDE,Both,Unidentified speaker
+Speaker 74,EXCLUDE,Both,Unidentified speaker
+Speaker 75,EXCLUDE,Both,Unidentified speaker
+Speaker 76,EXCLUDE,Both,Unidentified speaker
+Speaker 77,EXCLUDE,Both,Unidentified speaker
+Speaker 78,EXCLUDE,Both,Unidentified speaker
+Speaker 79,EXCLUDE,Both,Unidentified speaker
+Speaker 80,EXCLUDE,Both,Unidentified speaker
+Speaker 81,EXCLUDE,Both,Unidentified speaker
+Speaker 82,EXCLUDE,Both,Unidentified speaker
+Speaker 83,EXCLUDE,Both,Unidentified speaker
+Speaker 84,EXCLUDE,Both,Unidentified speaker
+Speaker 85,EXCLUDE,Both,Unidentified speaker
+Speaker 86,EXCLUDE,Both,Unidentified speaker
+Speaker 87,EXCLUDE,Both,Unidentified speaker
+Speaker 88,EXCLUDE,Both,Unidentified speaker
+Speaker 89,EXCLUDE,Both,Unidentified speaker
+Speaker 90,EXCLUDE,Both,Unidentified speaker
+Speaker 91,EXCLUDE,Both,Unidentified speaker
+Speaker 92,EXCLUDE,Both,Unidentified speaker
+Speaker 93,EXCLUDE,Both,Unidentified speaker
+Speaker 94,EXCLUDE,Both,Unidentified speaker
+Speaker 95,EXCLUDE,Both,Unidentified speaker
+Speaker 96,EXCLUDE,Both,Unidentified speaker
+Speaker 97,EXCLUDE,Both,Unidentified speaker
+Speaker 98,EXCLUDE,Both,Unidentified speaker
+Speaker 99,EXCLUDE,Both,Unidentified speaker
+# Unresolved single-name entries
+Johnson,UNKNOWN,Democratic,Voter testimonial Night 1 - insufficient context
+Miller,Lorraine Miller,Democratic,Co-chair Credentials Committee
+Roosevelt,Jim Roosevelt,Democratic,Co-chair Credentials Committee
+Estella,UNKNOWN,Democratic,Child letter reader Night 3
+Jessica,UNKNOWN,Democratic,Dreamer testimonial Night 3
+Kyle,UNKNOWN,Democratic,Biden supporter testimonial Night 3
+Campbell,Sister Simone Campbell,Democratic,Executive Director of Network
+Curry,Ayesha Curry,Democratic,Introduced by Stephen Curry Night 4
+Michael,UNKNOWN,Republican,Voter testimonial Night 4
+Brad,UNKNOWN,Republican,Hostage family member Night 1
+Ghali,G.E. Ghali,Republican,Chancellor Louisiana medical center
+Scott,Tim Scott,Republican,Senator - fragment from longer speech Night 1
+Gino,UNKNOWN,Republican,Voter testimonial Night 2
+Carl,Carl Mueller,Republican,Kayla Mueller's father Night 4
+Michelle,UNKNOWN,Republican,Voter testimonial Night 4
+Jr,Donald Trump Jr,Republican,Truncated name due to period in Jr.
+Alice Marie Johnson,Alice Johnson,Republican,Ballotpedia canonical name
+Amy Ford,Amy Johnson Ford,Republican,Ballotpedia canonical name
+Dan Crenshaw,Daniel Crenshaw,Republican,Ballotpedia canonical name
+Jack Pruitt,Jack Brewer,Republican,Rev transcription error — speaker is Jack Brewer per Rev URL
+Chris Pearson,Cris Peterson,Republican,Rev transcription error — speaker is Cris Peterson
+Gabby Giffords,Gabrielle Giffords,Democratic,Ballotpedia canonical name
+Mike Bloomberg,Michael Bloomberg,Democratic,Ballotpedia canonical name
+Giffords,Gabrielle Giffords,Democratic,Last name fragment — will merge with main entry
+# Artifact fix
+We don't burn- Kimberly Guilfoyle,EXCLUDE,Republican,Sentence fragment artifact 

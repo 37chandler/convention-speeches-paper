@@ -1,0 +1,68 @@
+raw_name,canonical_name,action,notes
+ALEX HORNBROOK,Alexander Hudlin,fix,OCR mangled — Alexander Hudlin (DNC N3)
+AMINAH HABER,Alina Habba,fix,OCR mangled — Alina Habba (RNC N4)
+ANNE FUNDER,Anne Fundner,fix,OCR spelling error
+BEN INGMAN,Benjamin Ingman,fix,OCR truncated first name
+BENJAMIN JOSEPH,Benjamin Josephs,fix,OCR missing trailing s
+BENNY THOMPSON,Bennie Thompson,fix,OCR spelling error
+BERNIE MARINO,Bernie Moreno,fix,OCR mangled last name
+CALLIST GINGRICH,Callista Gingrich,fix,OCR truncated first name
+CAPTAIN BROWN,Sam Brown,fix,OCR mangled — Sam Brown 2024 Nevada Senate candidate (RNC N2)
+CLAUDE CUMMINGS JR,Claude Cummings Jr.,fix,Missing period after Jr
+CONGRESSMAN EMMER,Tom Emmer,fix,OCR dropped name — Tom Emmer (RNC N2)
+CONGRESSMAN SCALISE,Steve Scalise,fix,OCR dropped name — Steve Scalise (RNC N2)
+CONGRESSMAN WALTZ,Michael Waltz,fix,OCR dropped name — Michael Waltz (RNC N3)
+DAVID LAURA,David Lara,fix,OCR spelling error
+DONALD TRUMP JR,Donald Trump Jr.,fix,Missing period after Jr
+ERIC HUFFED,Eric Hovde,fix,OCR mangled — Eric Hovde 2024 Wisconsin Senate candidate (RNC N2)
+ERIC SCHMIDT,Eric Schmitt,fix,OCR spelling error — Eric Schmitt Senator Missouri (RNC N2)
+EVELYN NUNEZ JONES,Evelyn Nunez Jones,fix,Citizen prayer speaker RNC Night 3 — distinct from Usha Vance at 03:59:52
+GABBY GIFFORD,Gabrielle Giffords,fix,OCR truncated — Gabrielle Giffords (DNC N4)
+GOV. BESHEAR,Andy Beshear,fix,OCR dropped name — Andy Beshear Governor Kentucky (DNC N1)
+GOV. COOPER,Roy Cooper,fix,OCR dropped name — Roy Cooper Governor North Carolina (DNC N4)
+GOV. JUSTICE,Jim Justice,fix,OCR dropped name — Jim Justice Governor West Virginia (RNC N2)
+GOV. LEE,Bill Lee,fix,OCR dropped name — Bill Lee Governor Tennessee (RNC N2)
+GOV. MAURA HEALEY,Maura Healey,fix,OCR dropped first name — Maura Healey Governor Massachusetts (DNC N4)
+HARMEET DHILLION,Harmeet Dhillon,fix,OCR spelling error
+HAYDEN PADGETT,Hayden Padget,fix,OCR extra letter
+HELEN HUDLIN,Helena Hudlin,fix,OCR truncated first name
+JAMIE HARRISON,Jaime Harrison,fix,OCR spelling error — Jaime Harrison DNC Chair
+JB PRITZKER,J.B. Pritzker,fix,OCR missing periods
+JEFF DUNCAN,Geoff Duncan,fix,OCR wrong first name — Geoff Duncan former Lt. Gov. Georgia (DNC N3)
+JOHN THE A 40,John Nieporte,fix,Severely OCR mangled — John Nieporte (RNC N4)
+JONAH GOOSE,Joe Neguse,fix,Severely OCR mangled — Joe Neguse Rep. Colorado (DNC N4)
+KELLY ROBINSON,Kelley Robinson,fix,OCR spelling error — Kelley Robinson HRC president (DNC N3)
+KENNY COOPER,Kenneth Cooper,fix,OCR truncated first name — Kenneth Cooper IBEW president (DNC N1)
+KID ROCK,EXCLUDE,exclude,Performer not speaker (RNC)
+LEE GREENWOOD,EXCLUDE,exclude,Performer not speaker (RNC)
+LENA HIDALGO,Lina Hidalgo,fix,OCR spelling error — Lina Hidalgo Harris County Judge (DNC N1)
+LORENZO SEWALL,Lorenzo Sewell,fix,OCR spelling error
+MADELEINE BRAME,Madeline Brame,fix,OCR spelling error
+MALCOLM KENNY ANNA,Malcolm Kenyatta,fix,Severely OCR mangled — Malcolm Kenyatta State Rep. Pennsylvania (DNC N2)
+MARIANNE TAYLOR,Marianne Taylor,keep,Pledge of Allegiance leader RNC N2 — name unverified keep as-is
+MARISSA TERESA KUMAR,María Teresa Kumar,fix,OCR spelling error — María Teresa Kumar Voto Latino (DNC N3)
+MARK LAW,Mark Laws,fix,OCR missing trailing s
+MICHELLE GRESHAM,Michelle Lujan Grisham,fix,OCR truncated — Michelle Lujan Grisham Governor New Mexico (DNC N2)
+MOLLY JACKSON,Ronny Jackson,fix,OCR mangled — Ronny Jackson Rep. Texas (RNC N2)
+NANCY MASON,Nancy Mace,fix,OCR mangled — Nancy Mace Rep. South Carolina (RNC N3)
+NEAL JACKSON,Neal Jackson,keep,Pastor invocation RNC N2 — not on Ballotpedia keep as-is
+NINA HARRIS,Meena Harris,fix,OCR wrong first name — Meena Harris (DNC N4)
+NOVELLA NORR,Nabela Noor,fix,OCR mangled — Nabela Noor content creator (DNC N2)
+OLIVIA JULIANO,Olivia Julianna,fix,OCR spelling error — Olivia Julianna activist (DNC N3)
+PATRICK THOMPSON,Patrick Thompson,keep,Pastor benediction RNC N3 — not on Ballotpedia keep as-is
+RACHEL GOLDERBERG,Rachel Goldberg,fix,OCR spelling error — Rachel Goldberg Jon Polin's wife (DNC N3)
+RAFAEL WARNOCK,Raphael Warnock,fix,OCR spelling error — Senator Raphael Warnock Georgia (DNC N1)
+RASHA KRISHNAMURTHY,Raja Krishnamoorthi,fix,Severely OCR mangled — Raja Krishnamoorthi Rep. Illinois (DNC N4)
+RICHARD GRENELL,Ric Grenell,fix,OCR wrong first name — Ric Grenell former Acting DNI (RNC N3)
+RON DESANTIS,Ron DeSantis,fix,OCR wrong casing — Ron DeSantis Governor Florida (RNC N2)
+SARAH WORKMAN,Sara Workman,fix,OCR spelling error
+SEAN BAIN,Shawn Fain,fix,OCR mangled both names — Shawn Fain UAW President (DNC N1)
+SIENNA BRANCH,Deanna Branch,fix,OCR mangled — Deanna Branch (DNC N3)
+STACY JOHNSON BATISTE AND DORIS JOHNSON,Stacey Johnson-Batiste and Doris Johnson,fix,OCR spelling + missing hyphen — merged group row keep as one row per professor guidance
+STEVEN WITKOFF,Steve Witkoff,fix,OCR extra letter
+STEVIE WONDER,EXCLUDE,exclude,Performer not speaker (DNC N3)
+SUSAN DELL BEEN,Suzan DelBene,fix,OCR mangled — Suzan DelBene Rep. Washington (DNC N3)
+VAGUE RAMASWAMY,Vivek Ramaswamy,fix,OCR mangled — Vivek Ramaswamy (RNC N2)
+VICTOR SMITH,Victor Smith,keep,Procedural delegate motion RNC N2 — not on Ballotpedia keep as-is
+WILLIAM GALLEGO,Ruben Gallego,fix,OCR wrong first name — Ruben Gallego Rep. Arizona (DNC N4)
+JAMES MCLAUGHLIN,James McLaughlin,keep,Everyday American speaker RNC N4 — not on Ballotpedia keep as-is

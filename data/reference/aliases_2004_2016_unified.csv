@@ -1,0 +1,91 @@
+alias,canonical,party,notes
+Al Franken And Sarah Silverman,Al Franken & Sarah Silverman,Democratic,2016 joint appearance
+Alexandar Kerry,Alexandra Kerry,Democratic,2004 typo
+Amy Klobishar,Amy Klobuchar,Democratic,2004 phonetic fix
+Anna Berger,Anna Burger,Democratic,2012 typo; 2016 typo
+Antonio R. Villaraigosa,Antonio Villaraigosa,Democratic,2012 merge segments; 2016 merge segments
+Antonio Vire-rigota,Antonio Villaraigosa,Democratic,2004 major misspelling
+Arron Shock,Aaron Schock,Republican,2008 typo
+Artur Davis,Arthur Davis,Democratic,2012 typo
+Barbara A. Mikulski,Barbara Mikulski,Democratic,2012 consistency; 2016 consistency
+Benjamin Mckenzie,Benjamin McKenzie,Democratic,2004 typo
+Besty Cavendish,Betsy Cavendish,Democratic,2004 typo
+Bill Clinton Jr.,Bill Clinton,Democratic,2016 consistency
+Bill Rechardson,Bill Richardson,Democratic,2004 typo
+Bob Buckhorn Jr.,Bob Buckhorn,Republican,2012 consistency
+Bob Menmendez,Robert Menendez,Democratic,2004 typo
+Brack Obama,Barack Obama,Democratic,2004 typo
+Carolyn Mccarthy,Carolyn McCarthy,Democratic,2004 typo
+Cathy Mcmorris Rodgers,Cathy McMorris Rodgers,Republican,2012 casing cleanup; 2016 casing cleanup
+Cathy Mcmorris Rogers,Cathy McMorris Rodgers,Republican,2012 typo and casing cleanup; 2016 typo and casing cleanup
+Charlie Crist Jr.,Charlie Crist,Democratic,2012 consistency
+Chris Van Holle,Chris Van Hollen,Democratic,2008 typo
+Cindy Mccain,Cindy McCain,Republican,2008 casing cleanup
+Claire Mccaskill,Claire McCaskill,Democratic,2008 casing cleanup
+David A. Patterson,David Paterson,Democratic,2008 consistency
+Debbie Wasserman-schultz,Debbie Wasserman-Schultz,Democratic,2008 casing cleanup
+Diana Degette,Diana DeGette,Democratic,2012 casing cleanup
+Diana Dugette,Diana DeGette,Democratic,2004 typo
+Dick Cheney (source: Https://www.americanrhetoric.com/speeches/convention2004/dickcheney2004rnc.htm),Dick Cheney,Republican,2004 URL contamination in speaker field
+Edward Mcelroy,Edward McElroy,Democratic,2004 typo
+G.k. Butterfield,G.K. Butterfield,Democratic,2012 casing cleanup; 2016 casing cleanup
+Hillary Clinton (source: Https://www.npr.org/templates/story/story.php?storyid=94003143),Hillary Clinton,Democratic,2008 URL in speaker field
+Jam Langevin,James Langevin,Democratic,2004 typo
+Janet Monacco,Janet Monaco,Democratic,2008 typo
+Jeanine Mcdonnell,Jeanine McDonnell,Republican,2012 casing cleanup
+Jeff Merkly,Jeff Merkley,Democratic,2012 typo
+Jenna And Barbara Bush,Jenna & Barbara Bush,Republican,2004 joint appearance
+Jim Damint,Jim DeMint,Republican,2004 typo
+Joe Biden Jr.,Joe Biden,Democratic,Merge identity; 2012 merge identity; 2016 consistency
+Joe Huffle,Joe Hoeffel,Democratic,2004 phonetic fix
+John Boehner Jr.,John Boehner,Republican,2012 consistency
+John Convers,John Conyers,Democratic,2008 typo
+John Ensen,John Ensign,Republican,2008 typo
+John F. Kerry,John Kerry,Democratic,2012 consistency; 2016 consistency
+John Kenones,John Quiñones,Republican,2004 phonetic fix
+John Mccain,John McCain,Republican,2004 casing cleanup
+John S. Mccain III,John McCain,Republican,2008 consistency; 2012 consistency
+John Tiegen And Mark Geist,John Tiegen & Mark Geist,Republican,2016 joint appearance
+"Joseph ""beau"" Biden",Beau Biden,Democratic,2008 CSV quote artifact; 2012 CSV quote artifact
+Juanita Millender-mcdonald,Juanita Millender-McDonald,Democratic,2004 casing cleanup
+Judith Mchale,Judith McHale,Democratic,2008 casing cleanup
+Kevin Mccarthy,Kevin McCarthy,Republican,2008 casing cleanup; 2012 casing cleanup; 2016 casing cleanup
+Kindrick Meek,Kendrick Meek,Democratic,2004 typo; 2016 typo
+Lena Dunham And America Ferrera,Lena Dunham & America Ferrera,Democratic,2016 joint appearance
+Martin J. O'malley,Martin O'Malley,Democratic,2012 casing cleanup
+Martino O'malley,Martin O'Malley,Democratic,2004 typo
+Mary Steenburgen And Ted Danson,Mary Steenburgen & Ted Danson,Democratic,2016 joint appearance
+Maya Sapporo And Craig Robinson,EXCLUDE,Democratic,2012 intro segment not a speech; 2016 intro segment
+Mel Martinez Mel,Mel Martinez,Republican,2004 metadata cleanup
+Michele M. Bachman,Michele Bachmann,Republican,2008 typo
+Michell Obama,Michelle Obama,Democratic,2008 typo
+Miles Mcpherson,Miles McPherson,Republican,2008 casing cleanup
+Mitch Mcconnell,Mitch McConnell,Republican,2004 typo; 2008 casing cleanup; 2012 casing cleanup; 2016 casing cleanup
+Mitt Romney Jr.,Mitt Romney,Republican,2012 consistency
+Newt Gingrich And His Wife,Newt Gingrich,Republican,2012 attribute to main speaker
+Oak Ridge Boys,EXCLUDE,Republican,2012 musical guest; 2016 musical guest
+Ossie Davis And Ruby Dee,Ossie Davis & Ruby Dee,Democratic,2004 joint appearance
+Pamela Cash-roper,Pamela Cash-Roper,Democratic,2008 casing cleanup
+Pat Mccrory,Pat McCrory,Republican,2004 typo; 2012 casing cleanup; 2016 casing cleanup
+Paul D. Ryan,Paul Ryan,Republican,2012 consistency
+Paul Ryan Jr.,Paul Ryan,Republican,2012 consistency
+Rand Paul Jr.,Rand Paul,Republican,2012 consistency
+Richard L. Trumka,Richard Trumka,Democratic,2012 consistency; 2016 consistency
+Rick Santorum Jr.,Rick Santorum,Republican,2012 consistency
+Robert Mcdonnell,Robert McDonnell,Republican,2012 casing cleanup
+Roberta Acteberg,Roberta Achtenberg,Democratic,2004 typo
+Rosa Edlauro,Rosa DeLauro,Democratic,2004 typo
+Rudolph Giuliani,Rudy Giuliani,Republican,2008 consistency
+Sean P. Duffy,Sean Duffy,Republican,2012 merge split segments
+Sean P. Duffy And Rachel Campos-duffy,Sean Duffy & Rachel Campos-Duffy,Republican,2016 joint appearance
+Shaka Fata,Chaka Fattah,Democratic,2004 typo
+Steve Isreal,Steve Israel,Democratic,2012 typo; 2016 typo
+Steven Mcdonald,Steven McDonald,Republican,2004 casing cleanup
+Terry Mcauliffe,Terry McAuliffe,Democratic,2004 typo
+Thomas Vilsack,Tom Vilsack,Democratic,2008 consistency; 2012 consistency; 2016 consistency
+Tome Reilly,Tom Reilly,Democratic,2004 typo
+Tome Vilsack,Tom Vilsack,Democratic,2004 typo
+Veronia Garcia,Veronica Garcia,Democratic,2004 typo
+Weslkey Clark,Wesley Clark,Democratic,2004 typo
+Rosa Delauro,Rosa DeLauro,Democratic,Fix casing
+Debbie Wasserman Schultz,Debbie Wasserman-Schultz,Democratic,Add hyphen

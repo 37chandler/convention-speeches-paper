@@ -1,0 +1,12 @@
+beautifulsoup4
+lxml
+html5lib
+pandas
+requests
+spacy
+typer
+tqdm
+python-dotenv
+numpy
+matplotlib
+click
