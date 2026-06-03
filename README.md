@@ -8,12 +8,12 @@ An NLP analysis of first-person pronoun usage across 1,800 convention speeches t
 
 ```
 RAW TRANSCRIPTS
-(C-SPAN 2004–2016, Rev.com 2020, C-SPAN + Rev + CNN + YouTube 2024)
+(CSPAN 2004–2016, Rev 2020, CSPAN + Rev + CNN + YouTube 2024)
         │
         ▼
     make parse
-    ├── src/parsers/cspan_parser.py          2004–2016 C-SPAN
-    ├── src/parsers/cspan_2024_parser.py     2024 C-SPAN
+    ├── src/parsers/cspan_parser.py          2004–2016 CSPAN
+    ├── src/parsers/cspan_2024_parser.py     2024 CSPAN
     ├── src/parsers/rev_2020_parser.py       2020 Rev.com
     ├── src/parsers/rev_2024_parser.py       2024 Rev.com
     ├── src/parsers/cnn_2024_parser.py       2024 CNN
@@ -22,13 +22,13 @@ RAW TRANSCRIPTS
         ▼
     make normalize
     ├── src/normalizer/normalize_speakers_cspan.py          2004–2016
-    ├── src/normalizer/normalize_speakers_cspan_2024.py     2024 C-SPAN
+    ├── src/normalizer/normalize_speakers_cspan_2024.py     2024 CSPAN
     ├── src/normalizer/normalize_speakers_2020_rev.py       2020 Rev
     ├── src/normalizer/normalize_speakers_2024_rev.py       2024 Rev
     ├── src/normalizer/normalize_speakers_2024_cnn.py       2024 CNN
     ├── src/normalizer/merge_2024.py                        merge 2024 sources
-    ├── src/normalizer/truecase_speeches_2004_2016.py       fix C-SPAN ALL-CAPS
-    ├── src/normalizer/truecase_speeches_2024.py            fix C-SPAN ALL-CAPS
+    ├── src/normalizer/truecase_speeches_2004_2016.py       fix CSPAN ALL-CAPS
+    ├── src/normalizer/truecase_speeches_2024.py            fix CSPAN ALL-CAPS
     └── src/build_unified_speeches.py                       → data/unified_speeches.csv
         │
         ▼
