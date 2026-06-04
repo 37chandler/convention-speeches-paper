@@ -82,6 +82,14 @@ make pronouns     # Extract pronoun counts → data/pronoun_counts.csv
 
 Then open `notebooks/hypothesis_testing-215_cap.ipynb` to reproduce all hypothesis tests.
 
+## Cleaning Generated Files
+
+```bash
+make clean        # Remove all generated CSVs
+```
+
+Removes all files under `data/processed/`, `data/unified_speeches.csv`, `data/pronoun_counts.csv`, and `data/pronoun_counts_rolled.csv`. Raw transcripts are not affected.
+
 ---
 
 ## Data Sources
