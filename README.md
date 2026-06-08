@@ -14,8 +14,8 @@ RAW TRANSCRIPTS
     make parse
     ├── src/parsers/cspan_parser.py          2004–2016 CSPAN
     ├── src/parsers/cspan_2024_parser.py     2024 CSPAN
-    ├── src/parsers/rev_2020_parser.py       2020 Rev.com
-    ├── src/parsers/rev_2024_parser.py       2024 Rev.com
+    ├── src/parsers/rev_2020_parser.py       2020 Rev
+    ├── src/parsers/rev_2024_parser.py       2024 Rev
     ├── src/parsers/cnn_2024_parser.py       2024 CNN
     └── src/parsers/youtube_parser.py        2024 YouTube
         │
