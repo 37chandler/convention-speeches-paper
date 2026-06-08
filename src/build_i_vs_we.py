@@ -18,8 +18,8 @@ import pandas as pd
 
 
 # --- Regex patterns (word boundary anchors prevent partial matches) ---
-I_PATTERN  = re.compile(r"\bI\b|\bI'm\b|\bI've\b|\bI'll\b|\bI'd\b",  re.IGNORECASE)
-WE_PATTERN = re.compile(r"\bwe\b|\bwe're\b|\bwe've\b|\bwe'll\b|\bwe'd\b", re.IGNORECASE)
+I_PATTERN  = re.compile(r"\bI\b|\bI['\u2019](m|ve|ll|d)\b",  re.IGNORECASE)
+WE_PATTERN = re.compile(r"\bwe\b|\bwe['\u2019](re|ve|ll|d)\b", re.IGNORECASE)
 
 
 def count_pronouns(text: str) -> tuple[int, int]:
