@@ -1,6 +1,6 @@
 # We vs. I: Collective and Individual Framing in U.S. Presidential Convention Speeches, 2004–2024
 
-An NLP analysis of first-person pronoun usage across 1,800 convention speeches to measure collective vs. individual framing by party and incumbency status.
+An NLP analysis of first-person pronoun usage across ~1,800 convention speech segments (1,263 after a 215-word length filter) to measure collective vs. individual framing by party and incumbency status.
 
 ---
 
@@ -47,10 +47,11 @@ RAW TRANSCRIPTS
 ├── Makefile
 ├── requirements.txt
 ├── notebooks/
-│   ├── 01_eda.ipynb                    Initial exploratory analysis
-│   ├── 02_eda.ipynb                    Extended EDA
+│   ├── 01_corpus_overview.ipynb        Corpus description (counts, lengths, sources)
+│   ├── 02_pronoun_exploration.ipynb    First-person framing EDA (from pronoun_counts.csv, 215-word cutoff)
 │   ├── unified_speeches_eda.ipynb      Data quality checks
-│   └── hypothesis_testing-215_cap.ipynb   Hypothesis tests (H1, H1b, H2, H2b)
+│   └── hypothesis_testing.ipynb        Hypothesis tests (H1, H1b, H2, H2b) + sensitivity
+├── figures/                            Figures written by the hypothesis notebook
 ├── src/
 │   ├── parsers/                        One parser per transcript source
 │   ├── normalizer/                     Speaker normalization + truecasing
@@ -80,7 +81,9 @@ make normalize    # Normalize speakers, truecase, unify → data/unified_speeche
 make pronouns     # Extract pronoun counts → data/pronoun_counts.csv
 ```
 
-Then open `notebooks/hypothesis_testing-215_cap.ipynb` to reproduce all hypothesis tests.
+Then open `notebooks/hypothesis_testing.ipynb` to reproduce all hypothesis tests.
+
+The notebook has two settings at the top: `WORD_CUTOFF` (minimum speech length, default 215) and `INCUMBENCY_2024` (how to code the ambiguous 2024 cycle for the incumbency tests: `"exclude"` (primary), `"dem_incumbent"`, or `"rep_incumbent"`). All tests are two-sided permutation tests with 95% bootstrap CIs. The sensitivity section re-runs the incumbency tests under all three 2024 codings and across a range of length cutoffs. Figures are written to `figures/`.
 
 ## Cleaning Generated Files
 
